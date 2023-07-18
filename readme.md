@@ -1,43 +1,27 @@
-# DESIGN STOCK
+# Quote Generator
 
-## 🔴[LIVE DEMO](https://design-stock.vercel.app)
+## 🔴[LIVE DEMO](https://mhhasanmehedi.github.io/quote-generator/)
 
 ![Preview Image](./images/preview.png)
 
 ### 🛠 Technologies used:-
 
-- React Js
-- create-react-app
-- SCSS
-- Bootstrap 5
-- react-icons
-- react-hot-toast
-- react-router-dom
+- HTML
+- CSS
+- Javascript
 
 ### Run Locally:-
 
 Clone the project
 
 ```bash
-  git clone https://github.com/mhhasanmehedi/design-stock.git
+  git clone https://github.com/mhhasanmehedi/quote-generator
 ```
 
 Go to the project directory
 
 ```bash
-  cd design-stock
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
+  cd quote-generator
 ```
 
 ### 🔗 Follow Me:-
